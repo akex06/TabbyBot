@@ -77,4 +77,4 @@ async def on_command_error(ctx, error):
 
 #   RUN
 if __name__ == "__main__":
-    client.run("ODY4NDcwMTkwNDk5ODI3NzYy.YPwH5A.7-VYv1nKFKw_iS4YXtdJfUpOmsQ")
+    client.run("TOKEN")
